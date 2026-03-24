@@ -1,0 +1,22 @@
+{
+    "id": "mvr",
+    "name": "MVR",
+    "abbrev": "MVR",
+    "version": "1.0.0",
+    "description": "4-track chop sampler inspired by MLR",
+    "ui": "ui.js",
+    "dsp": "dsp.so",
+    "api_version": 2,
+    "component_type": "tool",
+    "capabilities": {
+        "audio_out": true,
+        "audio_in": false,
+        "midi_in": true,
+        "midi_out": false,
+        "claims_master_knob": true
+    },
+    "tool_config": {
+        "interactive": true,
+        "skip_file_browser": true
+    }
+}
