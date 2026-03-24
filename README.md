@@ -14,7 +14,7 @@ MVR is a 4-track chop sampler for the [Ableton Move](https://www.ableton.com/en/
 - **BPM detection** shown in file browser during preview
 - Per-track volume, DJ filter (LP↔HP), reverb
 - Loop / one-shot mode
-- MLR-style MIDI recorder with overdub and quantize
+- MLR-style MIDI recorder with overdub and quantize Using capture button
 
 ## Controls
 Loop button - Change mode for loop to single shot 
@@ -33,7 +33,7 @@ if you hold two pads  pressing the righ one first it plays in reverse mode
 | Step 2 (hold) + Knobs 1–4 | Reverb per track |
 | Step 1 (hold) + Knobs 8 | DJ filter per master |
 | Step 2 (hold) + Knobs 8 | Reverb per master |
-
+| capture button capture midi events |
 
 | Master knob | Master volume |
 | Copy button | Enter copy mode |
