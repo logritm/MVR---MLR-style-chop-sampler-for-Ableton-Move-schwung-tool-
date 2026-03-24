@@ -1,6 +1,6 @@
 # MVR — MLR-style chop sampler for Ableton Move
 
-MVR is a 4-track chop sampler for the [Ableton Move](https://www.ableton.com/en/move/), inspired by the classic MLR from the monome ecosystem. It runs as a **schwung** module.
+MVR is a 4-track chop sampler for the [Ableton Move](https://www.ableton.com/en/move/), inspired by the classic MLR . It runs as a **schwung** module.
 
 ## Features
 
