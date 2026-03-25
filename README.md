@@ -70,4 +70,4 @@ bash scripts/build.sh
 
 ## Requirements
 
-- Ableton Move with [schwung](https://github.com/schwung-org/schwung) installed
+- Ableton Move with [schwung](https://github.com/charlesvestal/schwung) installed
